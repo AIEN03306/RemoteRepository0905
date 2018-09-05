@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 '''
        , 
                 ,.  | \ 
@@ -23,6 +24,12 @@
                           ;  ``::.    ::::::: 
 '''                 
 
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> bb4ecadb36221a19c2b40fcf2969d1e7d7550860
 print('hahaha')
 print('hahaha')
 
@@ -70,4 +77,8 @@ print('aien0322 was here')
 >>>>>>> 4801774a58e0463b190c093bdac5cbdeb3dda992
 >>>>>>> fb50017d3a2ef4eae449b37b9a475c0f5eb96aac
 >>>>>>> a4a951ee7d5c8ffc3f9be1ecd0f64bff0fc614f8
+<<<<<<< HEAD
 >>>>>>> 34ec7decdf621f0f461c0e292808241af1e9c745
+=======
+>>>>>>> e92f9267f1607c12df0a8a47724200a2a65a5fac
+>>>>>>> bb4ecadb36221a19c2b40fcf2969d1e7d7550860
