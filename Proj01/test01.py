@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 
-=======
+
 '''
        , 
                 ,.  | \ 
@@ -38,14 +37,9 @@ print("Hello", name, sep='-', end=',')
 print('aien0322 was here')
 print('heheheh')
 print('heheheh')
-<<<<<<< HEAD
-<<<<<<< HEAD
-print("pypypypypypypypy")
-=======
-<<<<<<< HEAD
-=======
 
->>>>>>> 11df9888baa7d3b5357334c30bfc67c86ab1a143
+print("pypypypypypypypy")
+
 print('衝突?')
 
 
@@ -122,11 +116,5 @@ for number in range(1, 10):
 print("孝宏老師站在你後面 非常火")
 
 print("衝突")
-<<<<<<< HEAD
-=======
->>>>>>> e92f9267f1607c12df0a8a47724200a2a65a5fac
->>>>>>> bb4ecadb36221a19c2b40fcf2969d1e7d7550860
->>>>>>> 683b7a3b0ffe1bf60d7a2421ec8535ee9723da92
-=======
 
->>>>>>> 11df9888baa7d3b5357334c30bfc67c86ab1a143
+print('final')
