@@ -2,6 +2,7 @@ print('hahaha')
 print('hahaha')
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 print('I am No.1')
 =======
 <<<<<<< HEAD
@@ -14,3 +15,23 @@ print('aien0322 was here')
 print('hah')
 print('aien0322 was here')
 >>>>>>> a639228e326baad503eb1ebc9f9c5d4a1fcdc0bc
+=======
+
+
+
+
+
+
+
+
+
+
+print('LOL')
+print('aien0307 was here')
+
+
+
+print('hah')
+print('aien0322 was here')
+
+>>>>>>> a3fd214b3e8409b561cfaccf855b966309f81e4d
