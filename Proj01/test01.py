@@ -118,3 +118,8 @@ print("孝宏老師站在你後面 非常火")
 print("衝突")
 
 print('final')
+print('heheheh')
+print('heheheh')
+print('heheheh')
+print('heheheh')
+print('heheheh')
