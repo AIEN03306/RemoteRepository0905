@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 
 name = input("請輸入姓名:")
 print("Hello", name, sep='-', end=',')
@@ -90,5 +92,9 @@ for number in range(1, 10):
 =======
 >>>>>>> ce075e545a53ad8f3cac980e48ca9d2f9ad4ed67
 >>>>>>> 4f7aceb52f8b5d4409a2b014378e071cebe1ac1f
+<<<<<<< HEAD
 >>>>>>> 34ec7decdf621f0f461c0e292808241af1e9c745
 print("衝突")
+=======
+>>>>>>> e92f9267f1607c12df0a8a47724200a2a65a5fac
+>>>>>>> bb4ecadb36221a19c2b40fcf2969d1e7d7550860
