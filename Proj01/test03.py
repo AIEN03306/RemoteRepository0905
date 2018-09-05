@@ -1,5 +1,7 @@
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 print('hahaha')
 print('hahaha')
 <<<<<<< HEAD
@@ -96,4 +98,8 @@ print("大家當起來!!!!"")
 >>>>>>> ce075e545a53ad8f3cac980e48ca9d2f9ad4ed67
 =======
 >>>>>>> a4a951ee7d5c8ffc3f9be1ecd0f64bff0fc614f8
+<<<<<<< HEAD
 >>>>>>> 4f7aceb52f8b5d4409a2b014378e071cebe1ac1f
+=======
+>>>>>>> e92f9267f1607c12df0a8a47724200a2a65a5fac
+>>>>>>> 683b7a3b0ffe1bf60d7a2421ec8535ee9723da92
