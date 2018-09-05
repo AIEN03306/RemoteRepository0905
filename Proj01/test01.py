@@ -4,8 +4,6 @@ print('heheheh')
 
 
 
-for number in range(1, 10):
-    print('Ha Ha Ha Ha no.16'))
 
 print('I am No.1')
 
@@ -24,4 +22,9 @@ print("I'm so sorry", name, ", it's just a joke.")
 time.sleep(3)
 
 print('I am No.1')
+
+
+
+for number in range(1, 10):
+    print('Ha Ha Ha Ha no.16'))
 
