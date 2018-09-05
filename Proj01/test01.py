@@ -1,5 +1,9 @@
+print('aien0322 was here')
 print('heheheh')
 print('heheheh')
+
+print('I am No.1')
+
 asd = [x for x in range(1000) if x %3 !=0 if x %7 !=0]
 
 print(asd)
@@ -34,3 +38,4 @@ Namespaces are one honking great idea -- let's do more of those!
 '''
 
 print(abcd)
+print('I am No.1')
