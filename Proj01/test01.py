@@ -1,6 +1,9 @@
 print('aien0322 was here')
 print('heheheh')
 print('heheheh')
+print('foo bar')
+
+import time
 name = input("請輸入姓名:")
 print("Hello", name, sep='-', end=',')
 time.sleep(0.5)
