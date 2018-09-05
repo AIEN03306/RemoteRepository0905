@@ -6,7 +6,14 @@ print('aien0322 was here')
 print('heheheh')
 print('heheheh')
 <<<<<<< HEAD
+<<<<<<< HEAD
 print(1+1)
+=======
+print('heheheh')
+print("lolololololololololololololololololololololololol")
+
+
+>>>>>>> 4f7aceb52f8b5d4409a2b014378e071cebe1ac1f
 =======
 
 
@@ -75,4 +82,8 @@ print('I am No.1')
 for number in range(1, 10):
     print('Ha Ha Ha Ha no.16 lalalalalalalala'))
 
+<<<<<<< HEAD
 >>>>>>> e8c306b6e8ea65143833ec30b9ba892d11af4c0f
+=======
+>>>>>>> ce075e545a53ad8f3cac980e48ca9d2f9ad4ed67
+>>>>>>> 4f7aceb52f8b5d4409a2b014378e071cebe1ac1f
