@@ -2,6 +2,7 @@ print('aien0322 was here')
 print('heheheh')
 print('heheheh')
 
+
 print('I am No.1')
 
 asd = [x for x in range(1000) if x %3 !=0 if x %7 !=0]
@@ -39,3 +40,21 @@ Namespaces are one honking great idea -- let's do more of those!
 
 print(abcd)
 print('I am No.1')
+
+
+print('foo bar')
+
+import time
+name = input("請輸入姓名:")
+print("Hello", name, sep='-', end=',')
+time.sleep(0.5)
+print("I am your father!!")
+time.sleep(3)
+print("NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO~~~~~~~~~~~")
+time.sleep(2)
+print("I'm so sorry", name, ", it's just a joke.")
+time.sleep(3)
+
+print('I am No.1')
+
+
