@@ -1,28 +1,16 @@
 print('hahaha')
 print('hahaha')
-<<<<<<< HEAD
-<<<<<<< HEAD
+print('aien0320 makes a change')
+print('hah')
+print('aien0322 was here')
 print('foo bar')
-=======
 print('hah')
 print('aien0322 was here')
->>>>>>> a639228e326baad503eb1ebc9f9c5d4a1fcdc0bc
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
 print('I am No.1')
-=======
-<<<<<<< HEAD
-print('hah')
-=======
-print('aien0322 was here')
->>>>>>> 918edcc9e127efc80d66729487ad773cf70a0007
->>>>>>> 2703a1f149c34af8153f25329e4371eab75468cc
-=======
 print('hah')
 print('aien0322 was here')
->>>>>>> a639228e326baad503eb1ebc9f9c5d4a1fcdc0bc
-=======\
+print('hah')
+print('aien0322 was here')
 print(aien0311 is here.)
 
 
@@ -34,13 +22,14 @@ print(aien0311 is here.)
 
 
 
+>>>>>>> df556e2ef8ee563f1519ba0ca3e9af3b5dc42e17
 print('LOL')
 print('aien0307 was here')
-
-
-
-print('hah')
+rint('hah')
 print('aien0322 was here')
+<<<<<<< HEAD
+=======
 
 >>>>>>> a3fd214b3e8409b561cfaccf855b966309f81e4d
 >>>>>>> 7ee51e74cbc235692c176701bfe2a78c6d3dc009
+>>>>>>> 4801774a58e0463b190c093bdac5cbdeb3dda992
