@@ -1,13 +1,16 @@
 print('aien0322 was here')
 print('heheheh')
 print('heheheh')
-<<<<<<< HEAD
+
 
 
 for number in range(1, 10):
     print('Ha Ha Ha Ha no.16'))
 
 print('I am No.1')
+
+print('foo bar')
+
 
 import time
 name = input("請輸入姓名:")
