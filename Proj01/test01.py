@@ -120,7 +120,3 @@ print("衝突")
 print('final')
 print('heheheh')
 print('heheheh')
-print('heheheh')
-
-
-
