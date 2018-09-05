@@ -1,8 +1,35 @@
+<<<<<<< HEAD
+
+=======
+'''
+       , 
+                ,.  | \ 
+               |: \ ; :\ 
+               :' ;\| ::\ 
+                \ : | `::\ 
+                _)  |   `:`. 
+              ,' , `.    ;: ; 
+            ,' ;:  ;"'  ,:: |_ 
+           /,   ` .    ;::: |:`-.__ 
+        _,' _o\  ,::.`:' ;  ;   . ' 
+    _,-'           `:.          ;""\, 
+ ,-'                     ,:         `-;, 
+ \,                       ;:           ;--._ 
+  `.______,-,----._     ,' ;:        ,/ ,  ,` 
+         / /,-';'  \     ; `:      ,'/,::.::: 
+       ,',;-'-'_,--;    ;   :.   ,',',;:::::: 
+      ( /___,-'     `.     ;::,,'o/  ,::::::: 
+       `'             )    ;:,'o /  ;"-   -:: 
+                      \__ _,'o ,'         ,:: 
+                         ) `--'       ,..:::: 
+      -hrr-              ; `.        ,::::::: 
+                          ;  ``::.    ::::::: 
+'''     
+
 
 name = input("請輸入姓名:")
 print("Hello", name, sep='-', end=',')
 
-<<<<<<< HEAD
 
 
 name = input("請輸入姓名:")
@@ -11,13 +38,12 @@ print("Hello", name, sep='-', end=',')
 print('aien0322 was here')
 print('heheheh')
 print('heheheh')
-<<<<<<< HEAD
+
 print('衝突?')
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 print('天呀天丫天呀')
-=======
+
 
 print(1+1)
 
@@ -64,16 +90,6 @@ Namespaces are one honking great idea -- let's do more of those!
 
 print(abcd)
 print('I am No.1')
->>>>>>> 4f7aceb52f8b5d4409a2b014378e071cebe1ac1f
-
-
-print('huehuehueuheuhuehuehuheuheuhehehuehuehuheuheuhuehuehuehue')
-
-
-
-print('I am No.1')
-
-print('foo bar')
 
 
 import time
